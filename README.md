@@ -1,7 +1,7 @@
-Flask Docker App
+## Flask Docker App
 
-## A small project: a Flask application containerized with Docker
-## When you run the application, you will see a simple message: "Main Page"
+# A small project: a Flask application containerized with Docker
+# When you run the application, you will see a simple message: "Main Page"
 
 ## Structure
 - 'app.py' - the Flask application
